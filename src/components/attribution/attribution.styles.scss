@@ -1,0 +1,13 @@
+$light-cyan: hsl(193, 38%, 86%);
+$neon-green: hsl(150, 100%, 66%);
+
+.attribution {
+    margin-top: 5em;
+    text-align: center;
+    color: $light-cyan;
+}
+
+.attribution a {
+    text-decoration: none;
+    color: $neon-green;
+}
